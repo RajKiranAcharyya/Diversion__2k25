@@ -1,0 +1,8 @@
+📂 Project Structure
+
+
+legal-document-generator/
+├── app.py                  # Main application code
+├── README.md               # This file!
+├── requirements.txt         # List of dependencies
+└── assets/                 # Optional folder for logos or other assets

@@ -1,0 +1,16 @@
+Legal Document Generator
+│
+├── **Frontend**
+│   ├── Streamlit UI (Forms, Uploads, Preview)
+│   └── Styling (CSS)
+│
+├── **Backend**
+│   ├── PDF Generation (`create_pdf`)
+│   ├── Document Logic (5 Types)
+│   └── Validation (Dates, Numbers)
+│
+├── **Utilities**
+│   ├── `io`, `re`, `datetime`, `os`, `Pillow`
+│
+└── **Dependencies**
+    ├── Streamlit, ReportLab, qrcode, Pillow
