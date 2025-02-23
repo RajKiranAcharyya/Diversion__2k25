@@ -2,7 +2,6 @@ streamlit
 markdown-it-py
 pygments
 rich
-datetime
 reportlab
 qrcode
-PIL
+Pillow
