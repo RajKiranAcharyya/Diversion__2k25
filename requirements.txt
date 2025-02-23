@@ -1,0 +1,8 @@
+Streamlit : For building the web app.
+ReportLab : For generating PDFs.
+qrcode : For creating QR codes.
+Pillow (PIL) : For handling image operations (e.g., logos, signatures).
+re : For regex validation (part of Python's standard library, no need to install separately).
+datetime : For date-related operations (part of Python's standard library, no need to install separately).
+io : For handling byte streams (part of Python's standard library, no need to install separately).
+os : For file path operations (part of Python's standard library, no need to install separately).
