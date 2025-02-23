@@ -106,7 +106,7 @@ def create_pdf(
         c.setFont("Helvetica-Oblique", 10)
         c.drawCentredString(width / 2, 40, "© Made By Tech 99 | Official Document")
 
-        qr_data = "https://your-verification-page.com/verify?docid=12345"
+        qr_data = "https://www.google.com"
         qr_img = qrcode.make(qr_data)
         qr_buffer = io.BytesIO()
         qr_img.save(qr_buffer, format="PNG")
