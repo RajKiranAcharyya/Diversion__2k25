@@ -2,7 +2,6 @@ streamlit
 markdown-it-py
 pygments
 rich
-re
 datetime
 reportlab
 os
