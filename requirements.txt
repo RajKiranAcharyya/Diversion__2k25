@@ -2,3 +2,10 @@ streamlit==1.23.0
 markdown-it-py==3.0.0
 pygments==2.19.1
 rich==13.9.4
+io
+re
+datetime
+reportlab
+os
+qrcode
+PIL
