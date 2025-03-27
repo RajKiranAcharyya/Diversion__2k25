@@ -79,7 +79,7 @@ We welcome contributions! If you'd like to improve this project, here's how you 
 
 ## 📜 License
 
-This project is licensed under the **MIT License**. Feel free to use, modify, and distribute it as per the terms of the license. 📄
+This project is licensed under the **MIT License**. Please feel free to use, modify, and distribute it according to the terms of the license. 📄
 
 ---
 
@@ -93,13 +93,7 @@ This project is licensed under the **MIT License**. Feel free to use, modify, an
 
 ## 📞 Contact
 
-For questions, feedback, or collaboration, feel free to reach out:
-
-- **GitHub**: [@your-username](https://github.com/your-username)  
-- **Email**: your-email@example.com  
-- **LinkedIn**: [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)  
-
----
+Feel free to send pull request for questions, feedback, or collaboration.
 
 Made with ❤️ by **Tech 99** 🚀
 
